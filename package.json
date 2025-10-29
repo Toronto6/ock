@@ -17,7 +17,7 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@coinbase/onchainkit": "^0.35.6",
+    "@coinbase/onchainkit": "^1.0.0",
     "next": "^14.2.32",
     "permissionless": "^0.1.26",
     "react": "^18",
